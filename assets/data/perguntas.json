@@ -1,0 +1,821 @@
+[
+  {
+    "id": 1,
+    "categoria": "Sobre Deus",
+    "pergunta": "Quem é Deus para vocês?",
+    "resposta_curta": "Deus é nosso Pai Celestial. Ele nos ama, conhece cada um de nós e preparou um plano para nossa felicidade.",
+    "resposta_completa": "Acreditamos que Deus é nosso Pai Celestial. Somos Seus filhos espirituais e Ele nos ama perfeitamente. Seu objetivo é ajudar-nos a voltar à Sua presença por meio de Jesus Cristo. Todo o plano de salvação existe porque Deus deseja nossa felicidade eterna.",
+    "escrituras": [
+      "João 3:16",
+      "Moisés 1:39"
+    ],
+    "dica": "Comece falando do amor de Deus antes de entrar em doutrinas mais profundas.",
+    "palavras_chave": [
+      "Deus",
+      "Pai Celestial",
+      "Criador"
+    ],
+    "situacoes": [
+      "Pessoa nunca ouviu falar da Igreja",
+      "Primeira Lição"
+    ]
+  },
+  {
+    "id": 2,
+    "categoria": "Sobre Deus",
+    "pergunta": "Vocês acreditam em Jesus Cristo?",
+    "resposta_curta": "Sim. Jesus Cristo é o Salvador do mundo e o centro de nossa fé.",
+    "resposta_completa": "Toda a mensagem da Igreja gira em torno de Jesus Cristo. Acreditamos que Ele é o Filho de Deus, morreu por nossos pecados, ressuscitou e vive. Procuramos seguir Seu exemplo diariamente.",
+    "escrituras": [
+      "João 14:6",
+      "2 Néfi 25:26"
+    ],
+    "dica": "Mostre que Jesus Cristo sempre é o foco principal.",
+    "palavras_chave": [
+      "Jesus Cristo",
+      "Salvador"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 3,
+    "categoria": "Sobre Deus",
+    "pergunta": "Vocês adoram Joseph Smith?",
+    "resposta_curta": "Não. Adoramos somente Deus, o Pai, e Seu Filho Jesus Cristo.",
+    "resposta_completa": "Joseph Smith foi um profeta chamado por Deus para restaurar a Igreja de Jesus Cristo. Nós o respeitamos, mas nossa adoração pertence somente ao Pai Celestial e a Jesus Cristo.",
+    "escrituras": [
+      "Êxodo 20:3",
+      "2 Néfi 25:29"
+    ],
+    "dica": "Esclareça essa dúvida logo no início da conversa.",
+    "palavras_chave": [
+      "Joseph Smith",
+      "Adoração"
+    ],
+    "situacoes": [
+      "Evangélico",
+      "Católico"
+    ]
+  },
+  {
+    "id": 4,
+    "categoria": "Sobre Deus",
+    "pergunta": "Deus responde orações?",
+    "resposta_curta": "Sim. Deus continua respondendo às orações sinceras.",
+    "resposta_completa": "Deus responde às orações de diferentes maneiras: por meio do Espírito Santo, das escrituras, de outras pessoas ou das circunstâncias da vida. Nem sempre a resposta é imediata, mas Ele sempre ouve Seus filhos.",
+    "escrituras": [
+      "Tiago 1:5",
+      "3 Néfi 18:20"
+    ],
+    "dica": "Se possível, compartilhe uma experiência pessoal.",
+    "palavras_chave": [
+      "Oração",
+      "Resposta"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 5,
+    "categoria": "Sobre Deus",
+    "pergunta": "Por que Deus permite o sofrimento?",
+    "resposta_curta": "Vivemos em um mundo onde existe liberdade de escolha e desafios da mortalidade.",
+    "resposta_completa": "Nem todo sofrimento vem de Deus. Muitas dificuldades fazem parte da vida mortal ou das escolhas humanas. Mesmo assim, Deus pode fortalecer-nos, consolar-nos e transformar essas experiências em crescimento espiritual por meio de Jesus Cristo.",
+    "escrituras": [
+      "Alma 7:11-12",
+      "Romanos 8:28"
+    ],
+    "dica": "Demonstre empatia antes de ensinar.",
+    "palavras_chave": [
+      "Sofrimento",
+      "Dor"
+    ],
+    "situacoes": [
+      "Pessoa enlutada",
+      "Dúvida geral"
+    ]
+  },
+  {
+    "id": 6,
+    "categoria": "Sobre Deus",
+    "pergunta": "Deus ama todas as pessoas?",
+    "resposta_curta": "Sim. Deus ama todos os Seus filhos igualmente.",
+    "resposta_completa": "O amor de Deus é universal. Independentemente da nacionalidade, cultura ou passado, todos somos Seus filhos e Ele deseja que nos aproximemos Dele por meio de Jesus Cristo.",
+    "escrituras": [
+      "João 3:16",
+      "2 Néfi 26:33"
+    ],
+    "dica": "Enfatize que ninguém está fora do alcance do amor de Deus.",
+    "palavras_chave": [
+      "Amor de Deus"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 7,
+    "categoria": "Sobre Deus",
+    "pergunta": "Quem é o Espírito Santo?",
+    "resposta_curta": "O Espírito Santo testifica da verdade, consola e guia os filhos de Deus.",
+    "resposta_completa": "O Espírito Santo é o terceiro membro da Trindade (Deidade). Sua missão é prestar testemunho de Jesus Cristo, ensinar a verdade, consolar e orientar aqueles que buscam sinceramente a Deus.",
+    "escrituras": [
+      "João 14:26",
+      "Morôni 10:5"
+    ],
+    "dica": "Explique Sua função de maneira simples.",
+    "palavras_chave": [
+      "Espírito Santo"
+    ],
+    "situacoes": [
+      "Primeira Lição"
+    ]
+  },
+  {
+    "id": 8,
+    "categoria": "Sobre Deus",
+    "pergunta": "Como posso sentir Deus?",
+    "resposta_curta": "Por meio da oração sincera, das escrituras e da obediência aos ensinamentos de Jesus Cristo.",
+    "resposta_completa": "Quando buscamos a Deus com sinceridade, o Espírito Santo pode trazer paz, esperança e confirmação espiritual. Cada pessoa pode desenvolver esse relacionamento pessoal com Deus.",
+    "escrituras": [
+      "Morôni 10:4-5"
+    ],
+    "dica": "Convide a pessoa a fazer uma oração sincera.",
+    "palavras_chave": [
+      "Sentir Deus",
+      "Espírito"
+    ],
+    "situacoes": [
+      "Investigador"
+    ]
+  },
+  {
+    "id": 9,
+    "categoria": "Sobre Deus",
+    "pergunta": "Deus ainda faz milagres?",
+    "resposta_curta": "Sim. Deus continua realizando milagres segundo Sua vontade.",
+    "resposta_completa": "Os milagres podem acontecer de muitas formas: curas, respostas às orações, mudanças de coração e fortalecimento espiritual. Deus continua agindo na vida de Seus filhos.",
+    "escrituras": [
+      "Mórmon 9:15-20"
+    ],
+    "dica": "Não crie expectativas de milagres específicos.",
+    "palavras_chave": [
+      "Milagres"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 10,
+    "categoria": "Sobre Deus",
+    "pergunta": "Por que devemos ter fé?",
+    "resposta_curta": "Porque a fé nos aproxima de Jesus Cristo e nos leva a agir.",
+    "resposta_completa": "A fé não é acreditar sem motivo, mas confiar em Deus e agir de acordo com Seus ensinamentos. À medida que exercemos fé, nosso testemunho cresce.",
+    "escrituras": [
+      "Éter 12:6"
+    ],
+    "dica": "Explique que a fé sempre leva à ação.",
+    "palavras_chave": [
+      "Fé"
+    ],
+    "situacoes": [
+      "Primeira Lição"
+    ]
+  },
+  {
+    "id": 11,
+    "categoria": "Joseph Smith",
+    "pergunta": "Quem foi Joseph Smith?",
+    "resposta_curta": "Foi o profeta chamado por Deus para restaurar a Igreja de Jesus Cristo.",
+    "resposta_completa": "Acreditamos que Joseph Smith foi chamado por Deus para restaurar a Igreja de Jesus Cristo, traduzir o Livro de Mórmon pelo dom e poder de Deus e restaurar a autoridade do sacerdócio.",
+    "escrituras": [
+      "Tiago 1:5",
+      "Doutrina e Convênios 1:30"
+    ],
+    "dica": "Sempre volte a conversa para Jesus Cristo.",
+    "palavras_chave": [
+      "Joseph Smith",
+      "Profeta"
+    ],
+    "situacoes": [
+      "Joseph Smith"
+    ]
+  },
+  {
+    "id": 12,
+    "categoria": "Joseph Smith",
+    "pergunta": "Por que Deus chamou Joseph Smith?",
+    "resposta_curta": "Para restaurar a Igreja de Jesus Cristo e Sua autoridade na Terra.",
+    "resposta_completa": "Após um período de apostasia, Deus chamou Joseph Smith para restaurar a autoridade do sacerdócio, a organização da Igreja e verdades do evangelho.",
+    "escrituras": [
+      "Atos 3:19-21"
+    ],
+    "dica": "Explique primeiro o conceito de Restauração.",
+    "palavras_chave": [
+      "Restauração"
+    ],
+    "situacoes": [
+      "Joseph Smith"
+    ]
+  },
+  {
+    "id": 13,
+    "categoria": "Joseph Smith",
+    "pergunta": "Joseph Smith realmente viu Deus?",
+    "resposta_curta": "Sim. Acreditamos no relato da Primeira Visão.",
+    "resposta_completa": "Joseph Smith testemunhou que viu Deus, o Pai, e Seu Filho Jesus Cristo quando buscava saber qual igreja deveria seguir. Esse evento marcou o início da Restauração.",
+    "escrituras": [
+      "Joseph Smith—História 1:15-20"
+    ],
+    "dica": "Convide a pessoa a ler o relato por si mesma.",
+    "palavras_chave": [
+      "Primeira Visão"
+    ],
+    "situacoes": [
+      "Joseph Smith"
+    ]
+  },
+  {
+    "id": 14,
+    "categoria": "Joseph Smith",
+    "pergunta": "Como posso saber se Joseph Smith foi um profeta?",
+    "resposta_curta": "Buscando uma confirmação de Deus por meio da oração e do Espírito Santo.",
+    "resposta_completa": "Convidamos cada pessoa a estudar a vida de Joseph Smith, ler o Livro de Mórmon e perguntar a Deus, com sinceridade, se a Restauração é verdadeira.",
+    "escrituras": [
+      "Morôni 10:3-5"
+    ],
+    "dica": "Evite debates longos e convide a pessoa a buscar uma resposta pessoal.",
+    "palavras_chave": [
+      "Testemunho",
+      "Joseph Smith"
+    ],
+    "situacoes": [
+      "Cético",
+      "Investigador"
+    ]
+  },
+  {
+    "id": 15,
+    "categoria": "Joseph Smith",
+    "pergunta": "Joseph Smith era perfeito?",
+    "resposta_curta": "Não. Ele era um homem comum chamado por Deus.",
+    "resposta_completa": "Assim como Moisés, Pedro e outros profetas, Joseph Smith tinha fraquezas e cometeu erros. Ainda assim, acreditamos que Deus o chamou para realizar uma grande obra.",
+    "escrituras": [
+      "Éter 12:27"
+    ],
+    "dica": "Mostre que Deus sempre trabalhou por meio de pessoas imperfeitas.",
+    "palavras_chave": [
+      "Profeta",
+      "Imperfeição"
+    ],
+    "situacoes": [
+      "Cético"
+    ]
+  },
+  {
+    "id": 16,
+    "categoria": "Joseph Smith",
+    "pergunta": "Joseph Smith inventou o Livro de Mórmon?",
+    "resposta_curta": "Não. Acreditamos que ele traduziu o Livro de Mórmon pelo dom e poder de Deus.",
+    "resposta_completa": "Joseph Smith afirmou que não escreveu o Livro de Mórmon por conta própria. Ele testemunhou que traduziu antigos registros por meio do dom e poder de Deus. Convidamos cada pessoa a ler o livro e buscar uma confirmação espiritual de sua veracidade.",
+    "escrituras": [
+      "Introdução do Livro de Mórmon",
+      "Morôni 10:3-5"
+    ],
+    "dica": "Convide a pessoa a ler o Livro de Mórmon antes de formar uma conclusão.",
+    "palavras_chave": [
+      "Livro de Mórmon",
+      "Tradução"
+    ],
+    "situacoes": [
+      "Cético",
+      "Joseph Smith"
+    ]
+  },
+  {
+    "id": 17,
+    "categoria": "Joseph Smith",
+    "pergunta": "Por que Joseph Smith foi perseguido?",
+    "resposta_curta": "Porque suas afirmações despertaram forte oposição e perseguição.",
+    "resposta_completa": "Ao longo da história, muitos profetas enfrentaram rejeição. Joseph Smith também sofreu perseguições por ensinar o que acreditava ser a vontade de Deus e por organizar novamente a Igreja de Jesus Cristo.",
+    "escrituras": [
+      "Mateus 5:10-12",
+      "Doutrina e Convênios 135"
+    ],
+    "dica": "Compare com a perseguição sofrida por profetas bíblicos.",
+    "palavras_chave": [
+      "Perseguição",
+      "Profeta"
+    ],
+    "situacoes": [
+      "Joseph Smith"
+    ]
+  },
+  {
+    "id": 18,
+    "categoria": "Joseph Smith",
+    "pergunta": "Como Joseph Smith morreu?",
+    "resposta_curta": "Ele foi morto por uma multidão enquanto estava preso na Cadeia de Carthage.",
+    "resposta_completa": "Joseph Smith e seu irmão Hyrum foram assassinados em 1844 por uma multidão armada. Os membros da Igreja o consideram um mártir por permanecer fiel ao seu testemunho até o fim.",
+    "escrituras": [
+      "Doutrina e Convênios 135"
+    ],
+    "dica": "Apresente os fatos com respeito e sem exageros.",
+    "palavras_chave": [
+      "Martírio",
+      "Carthage"
+    ],
+    "situacoes": [
+      "Joseph Smith"
+    ]
+  },
+  {
+    "id": 19,
+    "categoria": "Joseph Smith",
+    "pergunta": "Por que vocês ainda falam tanto sobre Joseph Smith?",
+    "resposta_curta": "Porque acreditamos que Deus o chamou para restaurar o evangelho de Jesus Cristo.",
+    "resposta_completa": "Falamos sobre Joseph Smith pelo papel que acreditamos que ele desempenhou na Restauração. No entanto, nossa adoração é dirigida somente ao Pai Celestial e a Jesus Cristo.",
+    "escrituras": [
+      "Doutrina e Convênios 1:30"
+    ],
+    "dica": "Sempre volte o foco para Jesus Cristo.",
+    "palavras_chave": [
+      "Restauração"
+    ],
+    "situacoes": [
+      "Evangélico",
+      "Católico"
+    ]
+  },
+  {
+    "id": 20,
+    "categoria": "Joseph Smith",
+    "pergunta": "O que vocês gostariam que eu fizesse sobre Joseph Smith?",
+    "resposta_curta": "Que você conheça sua história e pergunte a Deus se ela é verdadeira.",
+    "resposta_completa": "Nosso convite é simples: leia o relato da Primeira Visão, leia o Livro de Mórmon e faça uma oração sincera pedindo orientação a Deus.",
+    "escrituras": [
+      "Tiago 1:5",
+      "Morôni 10:4-5"
+    ],
+    "dica": "Conclua com um convite, não com pressão.",
+    "palavras_chave": [
+      "Convite",
+      "Primeira Visão"
+    ],
+    "situacoes": [
+      "Investigador"
+    ]
+  },
+  {
+    "id": 21,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "O que é o Livro de Mórmon?",
+    "resposta_curta": "É outro testemunho de Jesus Cristo e acompanha a Bíblia.",
+    "resposta_completa": "O Livro de Mórmon reúne escritos de antigos profetas das Américas e presta testemunho de Jesus Cristo. Ele complementa a Bíblia e ajuda a fortalecer nossa fé no Salvador.",
+    "escrituras": [
+      "Introdução do Livro de Mórmon",
+      "Ezequiel 37:15-17"
+    ],
+    "dica": "Explique que o Livro de Mórmon não substitui a Bíblia.",
+    "palavras_chave": [
+      "Livro de Mórmon"
+    ],
+    "situacoes": [
+      "Primeira Lição"
+    ]
+  },
+  {
+    "id": 22,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "O Livro de Mórmon substitui a Bíblia?",
+    "resposta_curta": "Não. Eles se complementam e testificam de Jesus Cristo.",
+    "resposta_completa": "Acreditamos tanto na Bíblia quanto no Livro de Mórmon. Juntos, eles fortalecem o testemunho de Jesus Cristo e esclarecem princípios do evangelho.",
+    "escrituras": [
+      "2 Néfi 29:8"
+    ],
+    "dica": "Mostre respeito pela Bíblia.",
+    "palavras_chave": [
+      "Bíblia",
+      "Livro de Mórmon"
+    ],
+    "situacoes": [
+      "Evangélico",
+      "Católico"
+    ]
+  },
+  {
+    "id": 23,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "Por que preciso ler o Livro de Mórmon?",
+    "resposta_curta": "Porque ele ajuda a conhecer melhor Jesus Cristo e a buscar uma resposta de Deus.",
+    "resposta_completa": "Convidamos todos a lerem o Livro de Mórmon com sinceridade e oração. Acreditamos que Deus pode confirmar sua veracidade por meio do Espírito Santo.",
+    "escrituras": [
+      "Morôni 10:3-5"
+    ],
+    "dica": "Faça um convite simples e específico para a leitura.",
+    "palavras_chave": [
+      "Leitura",
+      "Testemunho"
+    ],
+    "situacoes": [
+      "Investigador"
+    ]
+  },
+  {
+    "id": 24,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "Quem escreveu o Livro de Mórmon?",
+    "resposta_curta": "Ele foi escrito por vários profetas antigos e compilado por Mórmon.",
+    "resposta_completa": "Diversos profetas registraram sua história e ensinamentos ao longo dos séculos. Mórmon reuniu muitos desses registros, e Morôni concluiu o livro antes de escondê-lo para ser encontrado posteriormente.",
+    "escrituras": [
+      "Palavras de Mórmon 1:1-5"
+    ],
+    "dica": "Explique a diferença entre autor, compilador e tradutor.",
+    "palavras_chave": [
+      "Mórmon",
+      "Morôni"
+    ],
+    "situacoes": [
+      "Livro de Mórmon"
+    ]
+  },
+  {
+    "id": 25,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "O Livro de Mórmon fala de Jesus Cristo?",
+    "resposta_curta": "Sim. Jesus Cristo é o personagem central do Livro de Mórmon.",
+    "resposta_completa": "O principal propósito do Livro de Mórmon é convencer todas as pessoas de que Jesus é o Cristo. Ele contém profecias sobre Sua vida e relata Sua visita ao continente americano após Sua ressurreição.",
+    "escrituras": [
+      "3 Néfi 11",
+      "Título do Livro de Mórmon"
+    ],
+    "dica": "Mostre passagens que falem diretamente do Salvador.",
+    "palavras_chave": [
+      "Jesus Cristo",
+      "3 Néfi"
+    ],
+    "situacoes": [
+      "Primeira Lição"
+    ]
+  },
+  {
+    "id": 26,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "Onde aconteceram os acontecimentos do Livro de Mórmon?",
+    "resposta_curta": "O livro relata acontecimentos em antigas civilizações nas Américas, mas a Igreja não define oficialmente um mapa específico.",
+    "resposta_completa": "O foco principal do Livro de Mórmon é sua mensagem espiritual sobre Jesus Cristo. Existem diferentes estudos sobre sua geografia, mas a Igreja não estabelece uma localização oficial para todos os eventos.",
+    "escrituras": [
+      "Introdução do Livro de Mórmon"
+    ],
+    "dica": "Evite apresentar teorias como doutrina oficial.",
+    "palavras_chave": [
+      "Geografia",
+      "Américas"
+    ],
+    "situacoes": [
+      "Cético"
+    ]
+  },
+  {
+    "id": 27,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "Por que o Livro de Mórmon é importante?",
+    "resposta_curta": "Porque fortalece o testemunho de Jesus Cristo e confirma verdades do evangelho.",
+    "resposta_completa": "Acreditamos que o Livro de Mórmon aproxima as pessoas de Cristo, esclarece doutrinas e confirma que Deus continua falando a Seus filhos.",
+    "escrituras": [
+      "Introdução do Livro de Mórmon"
+    ],
+    "dica": "Foque na mensagem espiritual do livro.",
+    "palavras_chave": [
+      "Importância",
+      "Testemunho"
+    ],
+    "situacoes": [
+      "Investigador"
+    ]
+  },
+  {
+    "id": 28,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "Qual é o principal ensinamento do Livro de Mórmon?",
+    "resposta_curta": "Que Jesus Cristo é o Salvador do mundo.",
+    "resposta_completa": "Do início ao fim, o Livro de Mórmon convida todos a exercer fé em Jesus Cristo, arrepender-se, fazer convênios com Deus e perseverar até o fim.",
+    "escrituras": [
+      "2 Néfi 25:26"
+    ],
+    "dica": "Sempre direcione a conversa ao Salvador.",
+    "palavras_chave": [
+      "Jesus Cristo"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 29,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "Como posso saber se o Livro de Mórmon é verdadeiro?",
+    "resposta_curta": "Lendo-o com sinceridade e perguntando a Deus em oração.",
+    "resposta_completa": "Morôni convida todos os leitores a ponderar a mensagem do livro e perguntar a Deus, com fé em Jesus Cristo. Acreditamos que o Espírito Santo pode confirmar sua veracidade.",
+    "escrituras": [
+      "Morôni 10:3-5"
+    ],
+    "dica": "Convide a pessoa a fazer o desafio de Morôni.",
+    "palavras_chave": [
+      "Morôni 10",
+      "Oração"
+    ],
+    "situacoes": [
+      "Investigador"
+    ]
+  },
+  {
+    "id": 30,
+    "categoria": "Livro de Mórmon",
+    "pergunta": "Se eu ler o Livro de Mórmon, o que vocês esperam que aconteça?",
+    "resposta_curta": "Esperamos que você se aproxime mais de Jesus Cristo e busque uma resposta de Deus.",
+    "resposta_completa": "Nosso objetivo não é convencer alguém apenas por argumentos. Convidamos cada pessoa a ler, refletir, orar e permitir que Deus a guie na busca da verdade.",
+    "escrituras": [
+      "Morôni 10:4-5",
+      "João 7:17"
+    ],
+    "dica": "Encerre com um convite respeitoso.",
+    "palavras_chave": [
+      "Convite",
+      "Livro de Mórmon"
+    ],
+    "situacoes": [
+      "Investigador"
+    ]
+  },
+  {
+    "id": 31,
+    "categoria": "A Bíblia",
+    "pergunta": "Vocês acreditam na Bíblia?",
+    "resposta_curta": "Sim. Acreditamos que a Bíblia é a palavra de Deus, na medida em que foi traduzida corretamente.",
+    "resposta_completa": "A Bíblia é uma das escrituras sagradas da Igreja. Estudamos o Antigo e o Novo Testamento e acreditamos que eles testificam de Jesus Cristo. Também acreditamos que Deus revelou outras escrituras para complementar esse testemunho.",
+    "escrituras": [
+      "2 Timóteo 3:16",
+      "8º Artigo de Fé"
+    ],
+    "dica": "Deixe claro desde o início que a Bíblia faz parte do estudo diário dos membros da Igreja.",
+    "palavras_chave": [
+      "Bíblia",
+      "Escrituras"
+    ],
+    "situacoes": [
+      "Evangélico",
+      "Católico"
+    ]
+  },
+  {
+    "id": 32,
+    "categoria": "A Bíblia",
+    "pergunta": "Por que vocês usam o Livro de Mórmon se já existe a Bíblia?",
+    "resposta_curta": "Porque Deus pode revelar mais de um livro de escrituras.",
+    "resposta_completa": "Acreditamos que a Bíblia e o Livro de Mórmon trabalham juntos para testificar de Jesus Cristo. Um não substitui o outro; ambos fortalecem nossa fé no Salvador.",
+    "escrituras": [
+      "2 Néfi 29:8"
+    ],
+    "dica": "Evite transmitir a ideia de competição entre os livros.",
+    "palavras_chave": [
+      "Livro de Mórmon",
+      "Bíblia"
+    ],
+    "situacoes": [
+      "Evangélico"
+    ]
+  },
+  {
+    "id": 33,
+    "categoria": "A Bíblia",
+    "pergunta": "Por que a Bíblia sozinha não basta?",
+    "resposta_curta": "Porque acreditamos que Deus continua revelando Sua palavra.",
+    "resposta_completa": "Assim como Deus falou por meio de diversos profetas em diferentes épocas, acreditamos que Ele continua revelando Sua vontade quando necessário. Mais escrituras significam mais testemunhos de Jesus Cristo.",
+    "escrituras": [
+      "João 10:16",
+      "Amós 3:7"
+    ],
+    "dica": "Mostre que Deus nunca limitou Sua capacidade de falar aos Seus filhos.",
+    "palavras_chave": [
+      "Revelação",
+      "Escrituras"
+    ],
+    "situacoes": [
+      "Evangélico"
+    ]
+  },
+  {
+    "id": 34,
+    "categoria": "A Bíblia",
+    "pergunta": "Vocês leem a Bíblia todos os dias?",
+    "resposta_curta": "Sim. Incentivamos o estudo diário das escrituras.",
+    "resposta_completa": "Os membros da Igreja são incentivados a estudar tanto a Bíblia quanto o Livro de Mórmon diariamente para fortalecer seu relacionamento com Jesus Cristo.",
+    "escrituras": [
+      "Josué 1:8"
+    ],
+    "dica": "Compartilhe como o estudo diário fortalece a fé.",
+    "palavras_chave": [
+      "Estudo",
+      "Escrituras"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 35,
+    "categoria": "A Bíblia",
+    "pergunta": "Vocês mudaram a Bíblia?",
+    "resposta_curta": "Não. Utilizamos traduções reconhecidas e respeitamos a Bíblia como escritura sagrada.",
+    "resposta_completa": "A Igreja utiliza traduções amplamente conhecidas da Bíblia e reconhece seu valor como palavra de Deus. Também acreditamos que Deus revelou escrituras adicionais.",
+    "escrituras": [
+      "8º Artigo de Fé"
+    ],
+    "dica": "Não entre em discussões sobre traduções sem necessidade.",
+    "palavras_chave": [
+      "Tradução",
+      "Bíblia"
+    ],
+    "situacoes": [
+      "Evangélico"
+    ]
+  },
+  {
+    "id": 36,
+    "categoria": "A Bíblia",
+    "pergunta": "Vocês acreditam em todos os profetas da Bíblia?",
+    "resposta_curta": "Sim. Respeitamos e estudamos os profetas bíblicos.",
+    "resposta_completa": "Noé, Abraão, Moisés, Isaías, Pedro e muitos outros são exemplos de servos de Deus que admiramos e estudamos.",
+    "escrituras": [
+      "Hebreus 11"
+    ],
+    "dica": "Mostre exemplos conhecidos pela pessoa.",
+    "palavras_chave": [
+      "Profetas"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 37,
+    "categoria": "A Bíblia",
+    "pergunta": "Vocês acreditam no Novo Testamento?",
+    "resposta_curta": "Sim. O Novo Testamento é fundamental para nossa fé em Jesus Cristo.",
+    "resposta_completa": "O Novo Testamento registra a vida, o ministério, a Expiação e a Ressurreição de Jesus Cristo. Estudamos esses ensinamentos constantemente.",
+    "escrituras": [
+      "João 20:31"
+    ],
+    "dica": "Fale sobre o Salvador.",
+    "palavras_chave": [
+      "Novo Testamento"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 38,
+    "categoria": "A Bíblia",
+    "pergunta": "Vocês seguem a Bíblia ou o Livro de Mórmon?",
+    "resposta_curta": "Seguimos Jesus Cristo, conforme ensinado na Bíblia e no Livro de Mórmon.",
+    "resposta_completa": "Os dois livros trabalham juntos para ensinar o evangelho restaurado de Jesus Cristo.",
+    "escrituras": [
+      "Ezequiel 37:15-17"
+    ],
+    "dica": "Enfatize a unidade das escrituras.",
+    "palavras_chave": [
+      "Bíblia",
+      "Livro de Mórmon"
+    ],
+    "situacoes": [
+      "Evangélico"
+    ]
+  },
+  {
+    "id": 39,
+    "categoria": "A Bíblia",
+    "pergunta": "Qual é a escritura mais importante?",
+    "resposta_curta": "Todas as escrituras apontam para Jesus Cristo.",
+    "resposta_completa": "A Bíblia, o Livro de Mórmon, Doutrina e Convênios e Pérola de Grande Valor testificam do Salvador e trabalham em conjunto.",
+    "escrituras": [
+      "2 Néfi 25:26"
+    ],
+    "dica": "Evite colocar uma escritura acima da outra.",
+    "palavras_chave": [
+      "Escrituras"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 40,
+    "categoria": "A Bíblia",
+    "pergunta": "O que vocês mais gostam na Bíblia?",
+    "resposta_curta": "Seu testemunho de Jesus Cristo.",
+    "resposta_completa": "A Bíblia nos aproxima do Salvador, fortalece nossa fé e ensina princípios eternos para nossa vida.",
+    "escrituras": [
+      "João 5:39"
+    ],
+    "dica": "Compartilhe uma passagem favorita.",
+    "palavras_chave": [
+      "Jesus Cristo"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 41,
+    "categoria": "A Igreja",
+    "pergunta": "Qual é o nome completo da Igreja?",
+    "resposta_curta": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias.",
+    "resposta_completa": "O nome destaca que Jesus Cristo é o cabeça da Igreja e que buscamos segui-Lo nestes últimos dias.",
+    "escrituras": [
+      "Doutrina e Convênios 115:4"
+    ],
+    "dica": "Pronuncie o nome completo com naturalidade.",
+    "palavras_chave": [
+      "Nome da Igreja"
+    ],
+    "situacoes": [
+      "Primeira Lição"
+    ]
+  },
+  {
+    "id": 42,
+    "categoria": "A Igreja",
+    "pergunta": "Por que vocês se chamam Santos dos Últimos Dias?",
+    "resposta_curta": "Porque 'santos' significa discípulos de Cristo dedicados a segui-Lo.",
+    "resposta_completa": "No Novo Testamento, os seguidores de Cristo também eram chamados de santos. O termo não significa perfeição, mas dedicação ao Senhor.",
+    "escrituras": [
+      "Efésios 2:19"
+    ],
+    "dica": "Explique o significado bíblico da palavra 'santos'.",
+    "palavras_chave": [
+      "Santos"
+    ],
+    "situacoes": [
+      "Primeira Lição"
+    ]
+  },
+  {
+    "id": 43,
+    "categoria": "A Igreja",
+    "pergunta": "Quem lidera a Igreja hoje?",
+    "resposta_curta": "Acreditamos que a Igreja é liderada por Jesus Cristo por meio de um profeta vivo.",
+    "resposta_completa": "Assim como nos tempos bíblicos, acreditamos que Deus continua chamando profetas para orientar Sua Igreja.",
+    "escrituras": [
+      "Amós 3:7"
+    ],
+    "dica": "Explique a diferença entre Jesus Cristo e os líderes terrenos.",
+    "palavras_chave": [
+      "Profeta"
+    ],
+    "situacoes": [
+      "Investigador"
+    ]
+  },
+  {
+    "id": 44,
+    "categoria": "A Igreja",
+    "pergunta": "Qual é o objetivo da Igreja?",
+    "resposta_curta": "Ajudar as pessoas a achegarem-se a Jesus Cristo.",
+    "resposta_completa": "Toda organização e atividade da Igreja existe para ajudar as pessoas a desenvolver fé em Jesus Cristo, fazer convênios e servi-Lo.",
+    "escrituras": [
+      "Morôni 7:48"
+    ],
+    "dica": "Sempre volte a conversa para Cristo.",
+    "palavras_chave": [
+      "Objetivo"
+    ],
+    "situacoes": [
+      "Todas"
+    ]
+  },
+  {
+    "id": 45,
+    "categoria": "A Igreja",
+    "pergunta": "Quem pode visitar uma reunião da Igreja?",
+    "resposta_curta": "Todos são bem-vindos.",
+    "resposta_completa": "As reuniões de domingo são abertas ao público. Qualquer pessoa pode participar, aprender mais sobre Jesus Cristo e conhecer os membros da congregação.",
+    "escrituras": [
+      "3 Néfi 18:22"
+    ],
+    "dica": "Faça um convite caloroso para visitar uma reunião.",
+    "palavras_chave": [
+      "Reunião",
+      "Capela"
+    ],
+    "situacoes": [
+      "Investigador",
+      "Primeira Lição"
+    ]
+  }
+]

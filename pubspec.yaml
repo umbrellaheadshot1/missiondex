@@ -1,0 +1,52 @@
+name: missiondex
+description: >
+  MissionDex — biblioteca missionária pessoal para estudo do evangelho
+  e preparação missionária. Projeto pessoal criado por Umbrella Head.
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # --- Gerenciamento de estado ---
+  # Provider é simples, estável e mais que suficiente para o escopo do app.
+  provider: ^6.1.2
+
+  # --- Persistência local (100% offline) ---
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.3
+
+  # --- Identificadores únicos para perguntas/categorias/notas ---
+  uuid: ^4.4.0
+
+  # --- Compartilhar respostas / copiar texto ---
+  share_plus: ^9.0.0
+
+  # --- Ícones modernos ---
+  cupertino_icons: ^1.0.8
+
+  # --- Gráficos bonitos na tela de Estatísticas ---
+  fl_chart: ^0.68.0
+
+  # --- Import/Export de backup (JSON) ---
+  file_picker: ^8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+  # Geração de adapters do Hive para os models
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.11
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/perguntas.json
