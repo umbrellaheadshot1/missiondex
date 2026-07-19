@@ -6,6 +6,8 @@ workflows:
     environment:
       flutter: stable
     scripts:
+      - name: Criar estrutura Android
+        script: flutter create . --platforms=android
       - name: Instalar dependencias
         script: flutter pub get
       - name: Gerar adaptadores do Hive
